@@ -7,3 +7,5 @@ I __backtested__ it and it proved to have __100 % ROI__! Below is the backtested
 ![68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f7265706c69742f696d616765732f313632313330393930363634355f33353366653533356531376233343564363832663937323164646133376234632e706e67](https://user-images.githubusercontent.com/82938580/118754684-2e302380-b885-11eb-9598-bb78bd8b457a.png)
 
 
+## License
+This Project is [MIT Licensed](https://github.com/dopevog/stockmarket-ai/blob/main/LICENSE)
