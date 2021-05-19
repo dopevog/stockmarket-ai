@@ -1,6 +1,8 @@
 # Short Term Stockmarket AI For American SPX Stocks
 ## Run It [NOW](https://replit.com/@dopevog/stockmarket-ai?embed=1&output=1#.replit)!
 ![t](https://user-images.githubusercontent.com/82938580/118754665-27a1ac00-b885-11eb-8ad6-954fa97d0fcb.gif)
+
+
 You can also download it and run it using Python3:
 ```
 git clone https://github.com/dopevog/stockmarket-ai.git
