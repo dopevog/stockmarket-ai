@@ -32,8 +32,8 @@ def listToString(e):
     
     return (seprator.join(e))
 
-sender = "oincstockmarketai@gmail.com"
-password = "810-006501"
+sender = "" ##Your Email
+password = "" ## Your Email Password
 
 def clear():
     # check and make call for specific operating system
