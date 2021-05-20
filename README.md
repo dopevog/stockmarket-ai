@@ -1,7 +1,13 @@
 # Short Term Stockmarket AI For American SPX Stocks
-## Run It [NOW](https://replit.com/@dopevog/stockmarket-ai?embed=1&output=1#.replit)!
+## Check It Out!
 ![t](https://user-images.githubusercontent.com/82938580/118754665-27a1ac00-b885-11eb-8ad6-954fa97d0fcb.gif)
 ## Run It Locally
+You must add your email and password in ```main.py``` here:
+```
+sender = "" ##Your Email
+password = "" ## Your Email Password
+```
+Before doing so, you must activate [Less Secure Apps](https://myaccount.google.com/lesssecureapps) for your google account. 
 ```
 git clone https://github.com/dopevog/stockmarket-ai.git
 cd stockmarket-ai
