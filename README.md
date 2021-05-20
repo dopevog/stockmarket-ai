@@ -2,7 +2,7 @@
 ## Check It Out!
 ![t](https://user-images.githubusercontent.com/82938580/118754665-27a1ac00-b885-11eb-8ad6-954fa97d0fcb.gif)
 ## Run It Locally
-You must add your email and password in ```main.py``` here:
+You must add your email and password in ```main.py``` on line ```35``` & ```36```:
 ```
 sender = "" ##Your Email
 password = "" ## Your Email Password
